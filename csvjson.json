@@ -1,5 +1,5 @@
 [
- {"Aruba": {
+ {"Afghanistan": {
     "1961": 390000,
     "1962": 392000,
     "1963": 419000,
@@ -726,7 +726,7 @@
     "Country Code": "BUR",
     "Indicator Name": "Production"
   },
-  {
+ {"Canada":{
     "1961": 82015008,
     "1962": 85668008,
     "1963": 85462008,
@@ -791,7 +791,8 @@
     "_key": "Canada",
     "Country Code": "CAN",
     "Indicator Name": "Production"
-  },
+  }
+ },
   {
     "1961": 1526000,
     "1962": 1700000,
