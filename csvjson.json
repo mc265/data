@@ -193,7 +193,7 @@
     "2019": 116000,
     "2020": 116000,
     "2021": 116000,
-    "country": "Algeria",
+    "_key": "Algeria",
     "Country Code": "ALG",
     "Indicator Name": "Production"
   },
@@ -259,7 +259,7 @@
     "2019": 8242428,
     "2020": 7518428,
     "2021": 7361735,
-    "country": "Argentina",
+    "_key": "Argentina",
     "Country Code": "ARG",
     "Indicator Name": "Production"
   },
@@ -325,7 +325,7 @@
     "2019": 17141699,
     "2020": 17591856,
     "2021": 16765735,
-    "country": "Australia",
+    "_key": "Australia",
     "Country Code": "AUST",
     "Indicator Name": "Production"
   },
@@ -391,7 +391,7 @@
     "2019": 12342524,
     "2020": 10586941,
     "2021": 12670521,
-    "country": "Austria",
+    "_key": "Austria",
     "Country Code": "AUSTRIA",
     "Indicator Name": "Production"
   },
@@ -457,7 +457,7 @@
     "2019": 15000,
     "2020": 15000,
     "2021": 15000,
-    "country": "Bahamas",
+    "_key": "Bahamas",
     "Country Code": "BAH",
     "Indicator Name": "Production"
   },
@@ -523,7 +523,7 @@
     "2019": 8000,
     "2020": 8000,
     "2021": 8000,
-    "country": "Belize",
+    "_key": "Belize",
     "Country Code": "BEL",
     "Indicator Name": "Production"
   },
@@ -589,7 +589,7 @@
     "2019": 41800000,
     "2020": 41800000,
     "2021": 41800000,
-    'name': "Brazil",
+    "_key": "Brazil",
     "Country Code": "BRA",
     "Indicator Name": "Production"
   },
